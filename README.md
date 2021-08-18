@@ -15,7 +15,7 @@ Below is the assembler code used on the project. Please be aware that I don't ha
 
 ;==========================================================================
 ;   Kawasaki GPX 600 CDI igniter unit project
-;   Adaptation from XT600 CDI at http://www.perso.wanadoo.fr/transmic/
+;   
 ;   Final release 11/23/2004 for 16F84 microcontroller 
 ;==========================================================================
 ;Advance timing values:
