@@ -1,5 +1,6 @@
-# Sportbike-CDI-development-
-Sportbike CDI development with programable advance spark curve
+# Kawasaki-GPX600-CDI-development-
+
+CDI development with programable advance spark curve
 
 Digital electronic ignition units are commonly in use in cars and motorcycles. The most important feature of a digital igniter is the processor accuracy on timing calculations, the programmable spark advance curve and the over RPMs cutoff for engine protection.
 
