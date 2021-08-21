@@ -13,6 +13,7 @@ The entire project was developed in assembler language for 16F84 microcontroller
 Before running the CDI unit on the bike I tested the circuit board externally measuring the advance timings with an oscilloscope to avoid damages in case of failures.  A common CDI failure is the triggering of the spark out of ignition time and such events can lead to mechanical failures. Testing phase is very important and more on the development of a CDI unit.
 
 Below is the assembler code used on the project. Please be aware that I don't have maintained this program after Nov 2004, so in case of any damages on the engine is your own responsibility. The advance timing table is calculated for a 8Mhz oscillator following original Kawasaki GPX600 values (10° at 1000 RPMs to 40° at 4000).
+----------------------------------------------------------------------------------------------------------------------------------
 
 ;==========================================================================
 ;   Kawasaki GPX 600 CDI igniter unit project
